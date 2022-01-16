@@ -19,7 +19,12 @@ npm run lint
 
 ### Build the app for production
 ```bash
-quasar build
+quasar build -m pwa
+```
+
+### Serve the app for production
+```bash
+quasar serve dist/pwa
 ```
 
 ### Customize the configuration
