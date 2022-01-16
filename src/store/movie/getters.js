@@ -92,7 +92,7 @@ export const getNewListTopRated = (state) => {
 }
 
 export const getNewListUpComing = (state) => {
-  const data = state.listTopRated
+  const data = state.listUpComing
   // const data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
   var c = 0
   let x = []

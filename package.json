@@ -10,7 +10,8 @@
     "test": "echo \"No test specified\" && exit 0",
     "serve": "quasar serve dist/pwa",
     "dev": "quasar dev",
-    "build": "quasar build -m pwa"
+    "build": "quasar build -m pwa",
+    "start": "node server.js"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
