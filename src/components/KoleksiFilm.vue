@@ -10,7 +10,7 @@
       swipeable
       animated
       padding
-      height="280px"
+      height="300px"
       control-color="black"
       arrows
     >
